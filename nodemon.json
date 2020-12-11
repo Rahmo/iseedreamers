@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "Rahmo",
+    "MONGO_PASSWORD": "RAHMOdev2020",
+    "MONGO_DB": "events-react-dev"
+  }
+}
